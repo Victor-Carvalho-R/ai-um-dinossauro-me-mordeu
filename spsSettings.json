@@ -1,0 +1,11 @@
+{
+  "gameType": "SURVIVAL",
+  "difficulty": "NORMAL",
+  "difficultyLocked": false,
+  "cheats": false,
+  "invited": [
+    "cfe3bedd-7f4d-493c-abf4-b1b96d424acc"
+  ],
+  "shareResourcePack": false,
+  "oppedPlayers": []
+}
