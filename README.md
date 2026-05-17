@@ -3,3 +3,5 @@
 git log (coletar o código do commit)
 git reset --hard <commit>
 git push origin HEAD --force
+
+LESGO SUBNAUTICA PORRA!!!
